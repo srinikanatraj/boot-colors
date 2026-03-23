@@ -1,1 +1,3 @@
-# boot-colors
+
+boot-colors
+OUTPUT:
